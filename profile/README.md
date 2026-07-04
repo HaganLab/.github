@@ -6,4 +6,4 @@ This is the GitHub repository for the lab of Thomas Hagan at Cincinnati Children
 |---|---|
 | 🔬 **[Lab website](https://haganlab.org)** | Research focus, publications, team, and contact info |
 | 🏥 **[Official CCHMC page](https://www.cincinnatichildrens.org/research/divisions/i/infectious/labs/hagan)** | The lab's institutional profile at Cincinnati Children's |
-| 📘 **[Computational resource guide](https://haganlab.github.io/resource_guide/)** | HPC, Git/GitHub, data sharing, and project-organization guides for lab members |
+| 📘 **[LabOps](https://haganlab.github.io/LabOps/)** | HPC, Git/GitHub, data sharing, and project-organization guides for lab members |
